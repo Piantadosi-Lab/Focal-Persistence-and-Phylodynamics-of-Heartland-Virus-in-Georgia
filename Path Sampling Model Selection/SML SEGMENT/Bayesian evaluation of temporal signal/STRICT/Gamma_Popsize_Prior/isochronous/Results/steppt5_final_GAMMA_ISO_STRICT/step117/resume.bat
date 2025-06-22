@@ -1,0 +1,29 @@
+
+            
+        
+            
+            
+        
+            
+        cd "C:\tmp_SML_het\rln\steppt5_final_GAMMA_ISO_STRICT\step117"
+
+
+
+"C:UserstyshaOneDriveDesktopPhylodynamic programsBEAST.v2.7.6.WindowsBEAST./jre/bin/java.exe" -cp "C:/Users/tysha/OneDrive/Desktop/Phylodynamic programs/BEAST.v2.7.6.Windows/BEAST/./lib/launcher.jar" beast.pkgmgmt.launcher.BeastLauncher -resume -seed 678978665881543243 beast.xml
+
+
+
+
+
+
+
+    
+        
+        
+
+
+
+    
+
+    
+    
